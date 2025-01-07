@@ -1,0 +1,14 @@
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\bin\Debug\net9.0\Gerenciar Stock.exe
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\bin\Debug\net9.0\Gerenciar Stock.deps.json
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\bin\Debug\net9.0\Gerenciar Stock.runtimeconfig.json
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\bin\Debug\net9.0\Gerenciar Stock.dll
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\bin\Debug\net9.0\Gerenciar Stock.pdb
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\obj\Debug\net9.0\Gerenciar Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\obj\Debug\net9.0\Gerenciar Stock.AssemblyInfoInputs.cache
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\obj\Debug\net9.0\Gerenciar Stock.AssemblyInfo.cs
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\obj\Debug\net9.0\Gerenciar Stock.csproj.CoreCompileInputs.cache
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\obj\Debug\net9.0\Gerenciar Stock.dll
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\obj\Debug\net9.0\refint\Gerenciar Stock.dll
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\obj\Debug\net9.0\Gerenciar Stock.pdb
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\obj\Debug\net9.0\Gerenciar Stock.genruntimeconfig.cache
+C:\Users\andra\OneDrive\Documentos\Programação\C#\Nsei\Gerenciar Stock\obj\Debug\net9.0\ref\Gerenciar Stock.dll
